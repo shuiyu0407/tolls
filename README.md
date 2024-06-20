@@ -1,20 +1,19 @@
+# Customize toolbox 
+Hello everyone, I am the author of the toolbox.
 
-## start
+Thank you for seeing my open source library.
 
-Hello everyone, this is my first serious project.
+I will introduce you to how to use my software.
 
-I'm glad you can see this project
+##Custom features
 
-I am not from an English speaking country, so I may have made grammar mistakes. I hope to be forgiven
+The purpose of releasing this software is to allow some authors who do not know how to code to customize the software library
 
-### Fstart
+You can put your prepared integration package in the tools folder . But you need to pay attention to the format .
 
-This is a Python program.
+**There is at least one exe or bat program in at least one subclass of a major category**
 
-Among them, the sys PyQt5 os subprocess libraries were used. So if you want to run the source code, you must install it
+**If you haven't displayed your class, please note if you have defined it correctly**
 
-If you need a packaging, you can find the "problem". If I see it, I will do it
 
-I am a very ordinary student, so please don't make things difficult for me. Thank you.
 
-A basic detection tool should include major and minor category folders, along with **BAT** and **EXE** programs.
