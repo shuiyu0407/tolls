@@ -15,5 +15,12 @@ You can put your prepared integration package in the tools folder . But you need
 
 **If you haven't displayed your class, please note if you have defined it correctly**
 
+It's like this`1 > 2/3 > 1.exe/2.bat `
+
+In [beta 1.2.0](https://github.com/shuiyu0407/tolls/releases/tag/chuerl), we have added an ini file for testing.
+
+He can't change anything now and will add more features later on.
+
+
 
 
